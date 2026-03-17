@@ -121,9 +121,9 @@ SigninLogs
 * **Workspace:** law-cyber-range
 
 <p align="left">
-  <img src="assets/Screenshot 2026-03-17 094414.png" width="700">
-  <img src="assets/Screenshot 2026-03-17 094448.png" width="700">
-  <img src="assets/Screenshot 2026-03-17 094552.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 094414.png" width="400">
+  <img src="assets/Screenshot 2026-03-17 094448.png" width="400">
+  <img src="assets/Screenshot 2026-03-17 094552.png" width="400">
 </p>
 
 ---
