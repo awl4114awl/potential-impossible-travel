@@ -46,11 +46,11 @@ SigninLogs
 | Entity Mapping | Account, IP                     |
 
 <p align="left">
-  <img src="screenshots/Screenshot 2026-03-13 121049.png" width="750">
-  <img src="screenshots/Screenshot 2026-03-17 081219.png" width="750">
-  <img src="screenshots/Screenshot 2026-03-17 081901.png" width="750">
-  <img src="screenshots/Screenshot 2026-03-17 081955.png" width="750">
-  <img src="screenshots/Screenshot 2026-03-17 082024.png" width="750">
+  <img src="assets/Screenshot 2026-03-13 121049.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 081219.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 081901.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 081955.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 082024.png" width="750">
 </p>
 
 ---
