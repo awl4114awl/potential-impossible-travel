@@ -45,6 +45,14 @@ SigninLogs
 | Tactics        | Initial Access, Defense Evasion |
 | Entity Mapping | Account, IP                     |
 
+<p align="left">
+  <img src="screenshots/Screenshot 2026-03-13 121049.png" width="750">
+  <img src="screenshots/Screenshot 2026-03-17 081219.png" width="750">
+  <img src="screenshots/Screenshot 2026-03-17 081901.png" width="750">
+  <img src="screenshots/Screenshot 2026-03-17 081955.png" width="750">
+  <img src="screenshots/Screenshot 2026-03-17 082024.png" width="750">
+</p>
+
 ---
 
 ## Lab Validation (Attack Simulation)
@@ -54,9 +62,7 @@ SigninLogs
 * Logged into Azure from local machine
 * Location: **Carlsbad, CA**
 
-<p align="left">
-  <img src="assets/Screenshot LOCAL_LOGIN.png" width="700">
-</p>
+
 
 ---
 
