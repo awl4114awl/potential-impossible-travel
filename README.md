@@ -171,11 +171,11 @@ SigninLogs
 
 ## Final Disposition
 
-**Closed as Benign Positive)**
+**Closed as Benign Positive**
 
 <p align="left">
-  <img src="assets/Screenshot 2026-03-17 110441.png" width="700">
-  <img src="assets/Screenshot 2026-03-17 105809.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 110441.png" width="400">
+  <img src="assets/Screenshot 2026-03-17 110413.png" width="400">
 </p>
 
 ---
