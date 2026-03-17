@@ -63,9 +63,9 @@ SigninLogs
 * Location: **Carlsbad, CA**
 
 <p align="left">
-  <img src="assets/Screenshot 2026-03-17 130546.png" width="400">
-  <img src="assets/Screenshot 2026-03-17 130603.png" width="400">
-  <img src="assets/Screenshot 2026-03-17 130610.png" width="300">
+  <img src="assets/Screenshot 2026-03-17 130546.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 130603.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 130610.png" width="750">
   <img src="assets/Screenshot 2026-03-17 130338.png" width="750">
 </p>
 
