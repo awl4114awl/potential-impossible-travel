@@ -62,15 +62,7 @@ SigninLogs
 * Logged into Azure from local machine
 * Location: **Carlsbad, CA**
 
-<p align="left">
-  <img src="assets/Screenshot 2026-03-17 084013.png" width="400">
-  <img src="assets/Screenshot 2026-03-17 084049.png" width="400">
-  <img src="assets/Screenshot 2026-03-17 084055.png" width="300">
-  <img src="assets/Screenshot 2026-03-17 092140.png" width="750">
-  <img src="assets/Screenshot 2026-03-17 092346.png" width="750">
-  <img src="assets/Screenshot 2026-03-17 092357.png" width="750">
-  <img src="assets/Screenshot 2026-03-17 092447.png" width="750">
-</p>
+
 
 ---
 
@@ -80,7 +72,13 @@ SigninLogs
 * Connected via RDP
 
 <p align="left">
-  <img src="assets/Screenshot RDP_CONNECTION.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 084013.png" width="400">
+  <img src="assets/Screenshot 2026-03-17 084049.png" width="400">
+  <img src="assets/Screenshot 2026-03-17 084055.png" width="300">
+  <img src="assets/Screenshot 2026-03-17 092140.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 092346.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 092357.png" width="750">
+  <img src="assets/Screenshot 2026-03-17 092447.png" width="750">
 </p>
 
 ---
