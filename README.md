@@ -107,7 +107,7 @@ SigninLogs
 * Within same time window
 
 <p align="left">
-  <img src="assets/Screenshot ALERT_TRIGGER.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 094320.png" width="700">
 </p>
 
 ---
@@ -117,11 +117,13 @@ SigninLogs
 * **Incident Name:** Potential Impossible Travel – Jordan
 * **Severity:** Medium
 * **Alerts:** Multiple correlated alerts
-* **Status:** Active → Closed
+* **Status:** New → Active
 * **Workspace:** law-cyber-range
 
 <p align="left">
-  <img src="assets/Screenshot INCIDENT_OVERVIEW.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 094414.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 094448.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 094552.png" width="700">
 </p>
 
 ---
@@ -139,7 +141,8 @@ SigninLogs
 * `20.122.36.194` (Azure VM)
 
 <p align="left">
-  <img src="assets/Screenshot KQL_RESULTS.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 103857.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 104102.png" width="700">
 </p>
 
 ---
@@ -151,7 +154,8 @@ SigninLogs
 * Clear geographic disparity
 
 <p align="left">
-  <img src="assets/Screenshot ENTITY_GRAPH.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 095250.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 105809.png" width="700">
 </p>
 
 ---
@@ -168,6 +172,11 @@ SigninLogs
 ## Final Disposition
 
 **Closed as Benign Positive)**
+
+<p align="left">
+  <img src="assets/Screenshot 2026-03-17 110441.png" width="700">
+  <img src="assets/Screenshot 2026-03-17 105809.png" width="700">
+</p>
 
 ---
 
