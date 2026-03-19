@@ -1,6 +1,6 @@
-## Potential Impossible Travel Detection (Microsoft Sentinel)
+# Potential Impossible Travel Detection (Microsoft Sentinel)
 
-### Overview
+## ⓘ Overview
 
 This project demonstrates the detection, validation, and investigation of a Potential Impossible Travel scenario using Microsoft Sentinel.
 
